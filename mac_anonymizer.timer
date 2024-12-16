@@ -1,0 +1,10 @@
+[Unit]
+Description=Mac_Anonymizer Service Restart Timer
+
+[Timer]
+OnCalendar=hourly
+Unit=mac_anonymizer.service
+Persistent=true
+
+[Install]
+WantedBy=timers.target
