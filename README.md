@@ -11,7 +11,7 @@ To use this tool, ensure the following packages are installed on your system:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/berkucuk/Mac_Anonymizer.git
    cd Mac_Anonymizer
    
 2. Grant execution permissions to the installation script:
